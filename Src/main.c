@@ -183,7 +183,7 @@ int main(void)
 	{
 
 
-		// HAL_Delay(1);
+		 HAL_Delay(100);
 		/*********************************RFID MANAGE**************************/
 		if(!lock_flag){
 
