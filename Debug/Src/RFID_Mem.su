@@ -1,0 +1,2 @@
+RFID_Mem.c:6:6:Mem_Write	40	static
+RFID_Mem.c:17:6:Mem_Read	40	static

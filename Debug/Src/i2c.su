@@ -1,0 +1,2 @@
+i2c.c:14:13:_HAL_I2C_MspInit	48	static
+i2c.c:42:13:_HAL_I2C_MspDeInit	16	static
